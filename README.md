@@ -10,6 +10,13 @@ A Python-based project with IaaC Automation (As Terraform/OpenTofu, Infrastractu
 
 
 
+
+## Free products and their limitations
+Source: https://cloud.google.com/free/docs/free-cloud-features
+
+
+
+
 ## Scaffold
 
 | Action | Steps |
