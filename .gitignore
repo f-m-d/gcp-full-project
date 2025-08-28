@@ -201,3 +201,37 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+##################
+
+
+# Local .terraform directories
+**/.terraform/*
+
+
+
+# Ignore variables files
+*.auto.tfvars
+
+
+
+# Ignore override files
+*.tfoverride
+
+
+
+# Ignore environment-specific files
+.envrc
+
+
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore Terraform lick
+.terraform.lock.hcl
+
