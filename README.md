@@ -31,3 +31,14 @@ Source: https://cloud.google.com/free/docs/free-cloud-features
 | **IAM-phase** | A dedicated Service Account will be used for each GCP service. Adeguate groups and roles will be assigned to users/service accounts. If not enough, custom roles will be created.
 | **Database-phase** | Create databases where the Python app will interact. Use each database service accordingly at its usage purpose and costs.
 | **LoadBalancer-phase** | Check what can be done in order to load balance the application. A Load Balancer or Cloud Run configuration, it depends on which architectural structure.
+
+---
+
+
+## Step 0 - Preparation
+Tutorial link di Terraform for GCP: https://developer.hashicorp.com/terraform/tutorials/gcp-get-started
+
+| Step | Procedure |
+|----|---|
+Install Terraform | Install from the official website
+Init Terraform | 
